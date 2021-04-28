@@ -2609,7 +2609,7 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
-			width: 100%;
+			width: 40%;
 		}
 
 			.image.fit img {
@@ -3421,7 +3421,7 @@ input, select, textarea {
 
 		#header > .title {
 			border: 0;
-			color: #ffffff;
+			color: #000000;
 			display: block;
 			font-size: 1.25em;
 			font-weight: bold;
